@@ -1,0 +1,12 @@
+{
+  "name": "welshcorgi",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "packageManager": "pnpm@8.14.3",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
