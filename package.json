@@ -8,5 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
 }
